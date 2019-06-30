@@ -1,4 +1,4 @@
-Rules from https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
+Rules copied from https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
 
 * Automation
   - Automate everything that can be automated
@@ -34,3 +34,5 @@ Rules from https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
   - Make logical switches intuitive
   - Be consistent
   - Check for errors
+
+Source: [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
