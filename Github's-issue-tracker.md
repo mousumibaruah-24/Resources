@@ -1,0 +1,1 @@
+Github is the most popular tool for version control and software development. One very basis use-case is working only with the issue tracker. The tracker can be used as a "to do" list. Please read this [guide](https://guides.github.com/features/issues).
