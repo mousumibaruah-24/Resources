@@ -1,9 +1,7 @@
 Copied from https://www.labnol.org/software/wget-command-examples/28750/
 
 ![Wget](https://img.labnol.org/di/wget-mirror-site.png)
-Wget is a free utility – available for Mac, Windows and Linux (included) – that can help you accomplish all this and more. What makes it different from most download managers is that wget can follow the HTML links on a web page and recursively download the files. It is the same tool that a soldier had used to download thousands of secret documents from the US army’s Intranet that were later published on the Wikileaks website. Mirror an entire website with  wget Spider Websites with Wget – 20 Practical Examples
-
-Wget is extremely powerful, but like with most other command line programs, the plethora of options it supports can be intimidating to new users. Thus what we have here are a collection of wget commands that you can use to accomplish common tasks from downloading single files to mirroring entire websites. It will help if you can read through the wget manual but for the busy souls, these commands are ready to execute.
+Wget is a free utility – available for Mac, Windows and Linux (included) – that can help you accomplish all this and more. What makes it different from most download managers is that wget can follow the HTML links on a web page and recursively download the files. 
 
 1. Download a single file from the Internet
 
