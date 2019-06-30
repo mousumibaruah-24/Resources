@@ -1,6 +1,6 @@
 * Stata
   - Link ST3 with Stata https://github.com/mattiasnordin/StataEditor
-  - Install frequently used [user defined commands](Stata ado)
+  - Install frequently used [user defined commands](Stata-ado)
 
 * Python 
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
