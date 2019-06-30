@@ -6,6 +6,7 @@
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 * Sublime Text
+  - It's critical to get a good text editor
   - Install [ST3](https://www.sublimetext.com/)
   - Download frequently used packages
 
