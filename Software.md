@@ -6,8 +6,10 @@
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 * Sublime Text
-  - It's critical to get a good text editor
+  - It's critical to use a good text editor
   - Install [ST3](https://www.sublimetext.com/)
+  - Learn shortcuts 
+  - Integrate ST with Stata and TeX
   - Download frequently used packages
 
 * Dropbox
