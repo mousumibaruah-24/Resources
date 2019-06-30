@@ -4,7 +4,7 @@ Our Bible is Gentzkow and Shapiro's [Code and Data](https://web.stanford.edu/~ge
 
 * Getting started 
   - [Software to install](Software)
-  - [GS' Code and Data](code-and-data)
+  - [Coding principles](code-and-data)
 * Text editor
   - [Packages](ST-packages)
 * Organization
@@ -13,6 +13,3 @@ Our Bible is Gentzkow and Shapiro's [Code and Data](https://web.stanford.edu/~ge
   - [Learning Stata](learning-stata)
   - [User commands](stata-ado)
   - [Routines](routines)
-
-
-
