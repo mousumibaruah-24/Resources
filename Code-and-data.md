@@ -20,7 +20,7 @@
 * If the implementation is easy to explain, it may be a good idea.
 * Namespaces are one honking great idea -- let's do more of those!
 
-Rules copied from https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
+Some more rules copied from https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
 
 * Automation
   - Automate everything that can be automated
