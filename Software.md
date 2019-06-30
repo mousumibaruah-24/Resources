@@ -14,7 +14,7 @@
 
 * Dropbox
   - Install [Dropbox](https://www.dropbox.com/)
-  - Set up folder organization
+  - Organize [folders](Dropbox-folder-organization) 
 
 * Evernote
   - Install [Evernote](https://evernote.com/)
