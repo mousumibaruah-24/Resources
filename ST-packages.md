@@ -1,4 +1,4 @@
-* [Stata Editor](https://github.com/mattiasnordin/StataEditor)
+* [Stata Editor](https://github.com/mattiasnordin/StataEditor) (for PC)
 
 * [Text Pastry](https://github.com/duydao/Text-Pastry)
   - [Read the Wiki](https://github.com/duydao/Text-Pastry/wiki/Examples)
