@@ -78,3 +78,6 @@ xtitle("`xt'" ) ytitle("`yt'") name(gr_`grtype'_`yvar'_`xvar')
 gr di  gr_`grtype'_`yvar'_`xvar'
 gr export "$papfig/gr_`grtype'_`yvar'_`xvar'.eps", replace
 ```
+
+* regular expressions
+http://www.stata.com/support/faqs/data-management/regular-expressions/
