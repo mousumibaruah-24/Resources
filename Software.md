@@ -1,3 +1,5 @@
+The first five are important
+
 * Stata
   - Stata is the preferred software for analysis
   - Link ST3 with Stata https://github.com/mattiasnordin/StataEditor
@@ -6,6 +8,9 @@
 * Python 
   - Python is a powerful programing language that has multiple uses, from data scraping to text analysis
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
+
+* ArcMap
+  - If you don't have access to Arc, the open source alternative is [QGIS](https://qgis.org)
 
 * Sublime Text
   - A good text editor can save hours during coding
