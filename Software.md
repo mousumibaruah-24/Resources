@@ -1,12 +1,14 @@
 * Stata
+  - Stata is the preferred software for analysis
   - Link ST3 with Stata https://github.com/mattiasnordin/StataEditor
   - Install frequently used [user defined commands](Stata-ado)
 
 * Python 
+  - Python is a powerful programing language that has multiple uses, from data scraping to text analysis
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 * Sublime Text
-  - It's critical to use a good text editor
+  - A good text editor can save hours during coding
   - Install [ST3](https://www.sublimetext.com/)
   - Learn shortcuts 
   - Integrate ST with Stata and TeX
@@ -23,3 +25,9 @@
 
 * WhatApp
   - Install [WhatsApp](https://www.whatsapp.com/download/) on PC/Mac
+
+* Other software
+  - [Wget](https://www.gnu.org/software/wget/)
+  - [Putty](https://www.putty.org/) 
+  - [WinSCP](https://winscp.net/eng/download.php) (for PC)
+  - [7-zip](https://www.7-zip.org/)
