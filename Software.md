@@ -1,7 +1,7 @@
 The first five are important:
 
 * Stata
-  - Stata is the preferred software for analysis. Please use [Stata/MP](https://www.stata.com/statamp/)
+  - Stata is the preferred software for analysis. Please use [Stata/MP](https://www.stata.com/statamp/).
   - Link ST3 with Stata https://github.com/mattiasnordin/StataEditor
   - Install frequently used [user defined commands](Stata-ado)
 
