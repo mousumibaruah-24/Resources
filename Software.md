@@ -18,7 +18,7 @@ The first five are important:
   - Install [ST3](https://www.sublimetext.com/)
   - Learn multi-line editing and shortcuts (such as Alt+F3)
   - Integrate ST with Stata and TeX
-  - Download frequently used packages
+  - Download [frequently used packages](st-packages)
 
 * Dropbox
   - Install [Dropbox](https://www.dropbox.com/)
