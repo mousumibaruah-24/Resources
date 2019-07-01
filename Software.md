@@ -10,7 +10,7 @@
 * Sublime Text
   - A good text editor can save hours during coding
   - Install [ST3](https://www.sublimetext.com/)
-  - Learn shortcuts 
+  - Learn multi-line editing and shortcuts (such as Alt+F3)
   - Integrate ST with Stata and TeX
   - Download frequently used packages
 
