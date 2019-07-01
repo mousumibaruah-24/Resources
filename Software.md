@@ -21,7 +21,7 @@ The first five are important:
 
 * Dropbox
   - Install [Dropbox](https://www.dropbox.com/)
-  - Organize [folders](Dropbox-folder-organization) 
+  - Familiarize yourself with the [folder organization plan](Dropbox-folder-organization) 
 
 * Evernote
   - Install [Evernote](https://evernote.com/)
