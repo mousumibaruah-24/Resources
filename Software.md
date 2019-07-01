@@ -28,6 +28,6 @@
 
 * Other software
   - [Wget](https://www.gnu.org/software/wget/)
-  - [Putty](https://www.putty.org/) 
+  - [Putty](https://www.putty.org/) (for PC)
   - [WinSCP](https://winscp.net/eng/download.php) (for PC)
   - [7-zip](https://www.7-zip.org/)
