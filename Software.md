@@ -1,4 +1,4 @@
-The first five are important
+The first five are important:
 
 * Stata
   - Stata is the preferred software for analysis
@@ -10,6 +10,7 @@ The first five are important
   - Install [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
 * ArcMap
+  - Used for GIS and spatial analysis
   - If you don't have access to Arc, the open source alternative is [QGIS](https://qgis.org)
 
 * Sublime Text
