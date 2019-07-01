@@ -58,3 +58,7 @@ Some more rules copied from https://web.stanford.edu/~gentzkow/research/CodeAndD
   - Check for errors
 
 Source: [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+
+* Suggestions on Stata programming style by Nick Cox:
+
+https://www.stata-journal.com/sjpdf.html?articlenum=pr0018
