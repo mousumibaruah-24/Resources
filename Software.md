@@ -1,4 +1,4 @@
-The first five are important:
+The first six are important:
 
 * Stata
   - Stata is the preferred software for analysis. Please use [Stata/MP](https://www.stata.com/statamp/).
@@ -27,12 +27,13 @@ The first five are important:
   - Install [Dropbox](https://www.dropbox.com/)
   - Familiarize yourself with the [folder organization plan](Dropbox-folder-organization) 
 
-* Evernote
+* Note taking
   - Install [Evernote](https://evernote.com/)
   - Install [Webclipper](https://evernote.com/products/webclipper) extension 
   - Use webclipper to save interesting news articles (in "simplified article" format)
 
-* WhatApp
+* Chat
+  - Install [Teams](https://teams.microsoft.com/downloads) 
   - Install [WhatsApp](https://www.whatsapp.com/download/) on PC/Mac
 
 * Other software
