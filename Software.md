@@ -19,6 +19,10 @@ The first five are important:
   - Learn multi-line editing and shortcuts (such as Alt+F3)
   - Integrate [ST with Stata and TeX and download frequently used packages](st-packages)
 
+* Q-Dir
+  - A good file manager is also extremely useful
+  - I use [Q-Dir](https://www.softwareok.com/?Download=Q-Dir) but there might be better ones out there
+
 * Dropbox
   - Install [Dropbox](https://www.dropbox.com/)
   - Familiarize yourself with the [folder organization plan](Dropbox-folder-organization) 
