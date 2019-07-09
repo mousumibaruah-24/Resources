@@ -9,6 +9,6 @@
   - [Learning Stata](learning-stata)
   - [User commands](stata-ado)
   - [Routines](routines)
-
-
+* Workflow
+  - [Workflow-to-create-tables](Making tables)
 
