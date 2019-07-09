@@ -10,5 +10,5 @@
   - [User commands](stata-ado)
   - [Routines](routines)
 * Workflow
-  - [Workflow-to-create-tables](Making tables)
+  - [Making tables](Workflow-to-create-tables)
 
