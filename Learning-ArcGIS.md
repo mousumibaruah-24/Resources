@@ -1,0 +1,3 @@
+- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+- [ArcGIS tutorials](https://mgimond.github.io/ArcGIS_tutorials/)
+- [UC Davis @Coursera](https://www.coursera.org/specializations/gis)
