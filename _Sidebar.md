@@ -15,4 +15,7 @@
   - [Issues](Github's-issue-tracker)
 * Workflow
   - [Making tables](Workflow-to-create-tables)
+  - [LaTeX tables](Reproducible-tables-for-LaTeX)
+* More
+  - [Further reading](Further-reading)
 
