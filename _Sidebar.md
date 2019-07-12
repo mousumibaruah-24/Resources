@@ -12,6 +12,7 @@
 * ArcGIS
   - [Learning ArcGIS](https://github.com/aadityadar/all-aboard/wiki/Learning-ArcGIS)
 * GitHub
+  - [GitHub training](learning-Github)
   - [Issues](Github's-issue-tracker)
 * Workflow
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
