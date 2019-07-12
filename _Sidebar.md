@@ -14,8 +14,8 @@
 * GitHub
   - [Issues](Github's-issue-tracker)
 * Workflow
-  - [Making tables](Workflow-to-create-tables)
-  - [LaTeX tables](Reproducible-tables-for-LaTeX)
+  - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
+  - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
   - [Further reading](Further-reading)
 
