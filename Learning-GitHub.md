@@ -1,4 +1,5 @@
 - Download [GitHub desktop](https://desktop.github.com)
+  - [Learn shortcuts](https://help.github.com/en/desktop/getting-started-with-github-desktop/keyboard-shortcuts-in-github-desktop), especially Ctrl+T which lists all repositories
 - [First day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github)
   - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
   - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
