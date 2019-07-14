@@ -11,10 +11,11 @@
   - [Routines](routines)
 * ArcGIS
   - [Learning ArcGIS](https://github.com/aadityadar/all-aboard/wiki/Learning-ArcGIS)
-* GitHub
+* Git and GitHub
   - [Learning Markdown](learning-Markdown)
   - [GitHub training](learning-Github)
   - [Issues](Github's-issue-tracker)
+  - [Learning Git](learning-Git)
 * Workflow
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
