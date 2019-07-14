@@ -16,6 +16,8 @@
   - [GitHub training](learning-Github)
   - [Issues](Github's-issue-tracker)
   - [Learning Git](learning-Git)
+* LaTeX
+  - [Learning LaTeX](learning-latex)
 * Workflow
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
