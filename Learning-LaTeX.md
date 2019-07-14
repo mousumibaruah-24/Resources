@@ -1,1 +1,2 @@
+Overleaf has an [excellent set of resources](https://www.overleaf.com/learn/). For starters, please see the following:
 - [Quick introduction to LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
