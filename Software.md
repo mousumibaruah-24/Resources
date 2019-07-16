@@ -41,3 +41,4 @@ The first six are important:
   - [Putty](https://www.putty.org/) (for PC)
   - [WinSCP](https://winscp.net/eng/download.php) (for PC)
   - [7-zip](https://www.7-zip.org/)
+  - [Jing](https://www.techsmith.com/download/jing/) or [Snagit](https://www.techsmith.com/download/snagit/)
