@@ -22,5 +22,6 @@
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
+  - [Screenshots](screenshot-tools)
   - [Further reading](Further-reading)
 
