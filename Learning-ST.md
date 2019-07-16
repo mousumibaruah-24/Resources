@@ -1,1 +1,2 @@
+* [ST support](https://www.sublimetext.com/support)
 * This [YouTube playlist](https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK) seems useful: https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
