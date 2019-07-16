@@ -3,6 +3,7 @@
   - [Coding principles](code-and-data)
 * Text editor
   - [Packages](ST-packages)
+  - [Learning Sublime Text](learning-ST)
 * Organization
   - [Folders](Dropbox-folder-organization)
 * Stata
