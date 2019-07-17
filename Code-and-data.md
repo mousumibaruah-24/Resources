@@ -59,9 +59,7 @@ Some more rules copied from https://web.stanford.edu/~gentzkow/research/CodeAndD
 
 Source: [Code and Data for the Social Sciences: A Practitioner's Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 
-* Computing practices 
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
+* Computing practices from https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 
   * Data management
     - Save the raw data.
