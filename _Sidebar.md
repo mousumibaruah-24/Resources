@@ -8,6 +8,7 @@
   - [Folders](Dropbox-folder-organization)
 * Stata
   - [Learning Stata](learning-stata)
+  - [Mastering Stata](Mastering-Stata)
   - [User commands](stata-ado)
   - [Routines](routines)
 * ArcGIS
