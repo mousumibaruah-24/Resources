@@ -1,3 +1,6 @@
+* Research and professional ethics 
+  - [Code of conduct](AEA-Code-of-conduct)
+  - [Human subject research](CITI-Program)
 * Getting started 
   - [Software to install](Software)
   - [Coding principles](code-and-data)
