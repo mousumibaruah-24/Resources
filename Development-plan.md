@@ -1,4 +1,4 @@
-* Please write up an individual development plan (IDP) for yourself
+* Please write up an individual development plan (IDP) for yourself:
   - It should include a career objective, a baseline skills assessment (you can use [imaginephd.com](https://www.imaginephd.com/) for this) and time-bound goals. 
   - Resources to help you draft an IDP are available in the [repository](https://github.com/aadityadar/all-aboard/tree/master/development_plan)
 
