@@ -8,4 +8,4 @@
     - Duration of the training period (two years instead of five) 
     - Frequency of review (biannual instead of annual) 
     - Number of goals (at least four every review cycle, with at least one that is relevant for (a) improving research productivity, (b) conducting research activities, and (c) professional development)
-  - Writing the IDP might involve some trade-offs. Please don't overburden yourself with classes -- remember: you just need to be prepared for a PhD and you don't need to complete all the PhD coursework before starting your PhD (!)
+  - Writing the IDP might involve some trade-offs. Please don't overburden yourself with too many classes -- remember: you just need to be prepared for a PhD and you don't need to complete all the PhD coursework before starting your PhD! 
