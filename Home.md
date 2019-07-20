@@ -1,3 +1,1 @@
-Welcome to the all-aboard wiki! 
-
-Our Bible is Gentzkow and Shapiro's [Code and Data](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) handbook. This is a *must* read. Please start there and then make your way through the pages on the sidebar.
+Welcome to the all-aboard wiki! This guide will help you get up to speed with principles that guide our work and various practices and tips that can make you productive. Please start with section on [professional and research ethics](https://github.com/aadityadar/all-aboard/wiki/AEA-Code-of-conduct) at the top of the sidebar and then slowly make your way through all other pages.
