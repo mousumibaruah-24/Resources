@@ -1,6 +1,6 @@
 * [Goal setting](https://github.com/aadityadar/all-aboard/blob/master/development_plan/idp_advice_gould.pdf) is a helpful strategy for career advancement 
 * Please write up an [individual development plan (IDP)](https://github.com/aadityadar/all-aboard/blob/master/development_plan/idp_advice_ireland_etal.pdf) for yourself:
-  - It should include a career objective, a baseline skills assessment (you can use [imaginephd.com](https://www.imaginephd.com/) for this) and time-bound goals. 
+  - It should include a career objective, a baseline skills assessment (you can use [imaginephd.com](https://www.imaginephd.com/) for this) and time-bound goals
   - Resources to help you draft an IDP are available in the [repository](https://github.com/aadityadar/all-aboard/tree/master/development_plan)
 
 * Few clarifications:
