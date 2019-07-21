@@ -1,4 +1,5 @@
-- stata code to generate .tex tables 
+* stata code to generate .tex tables 
+  - note to self: check out [`panel combine`](https://github.com/steveofconnell/PanelCombine)
 
 ```
 * prelim
