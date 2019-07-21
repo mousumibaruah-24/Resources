@@ -1,7 +1,6 @@
 * ideally one should write a wrapper for this but for now you can copy-paste these
 
 ```
-
 * clean string
 gen clean_string = dirty_string
 forvalues i = 0/255 {
@@ -18,6 +17,15 @@ foreach var in `r(varlist)' {
     replace `var' = strtrim(stritrim(lower(`var')))
 }
 
+* parallel lists
+local listone "cat dog cow pig"
+local listtwo "meow woof moo oinkoink"
+local n : word count `listone'
+forvalues i = 1/`n' {
+   local a : word `i' of `listone'
+   local b : word `i' of `listtwo'
+   di "`a' says `b'"
+}
 
 * append all files
 clear
@@ -29,16 +37,6 @@ foreach f in`r(files)' {
     gen source = "`f'"
     append using `building'
     save `building', replace
-}
-
-* parallel lists
-local listone "cat dog cow pig"
-local listtwo "meow woof moo oinkoink"
-local n : word count `listone'
-forvalues i = 1/`n' {
-   local a : word `i' of `listone'
-   local b : word `i' of `listtwo'
-   di "`a' says `b'"
 }
 
 * append sheets within a workbook
