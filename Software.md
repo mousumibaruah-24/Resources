@@ -41,4 +41,9 @@ The first six are important:
   - [Putty](https://www.putty.org/) (for PC)
   - [WinSCP](https://winscp.net/eng/download.php) (for PC)
   - [7-zip](https://www.7-zip.org/)
-  - [Jing](https://www.techsmith.com/download/jing/) or [Snagit](https://www.techsmith.com/download/snagit/)
+
+* Note on screenshots tools
+
+  - Use Windows default's Snip and Sketch (Win+Shift+S)
+![image](https://user-images.githubusercontent.com/6592655/61278962-313ac400-a783-11e9-8be6-e92c658eefbb.png)
+  - You could also use [Jing](https://www.techsmith.com/download/jing/) or [Snagit](https://www.techsmith.com/download/snagit/)
