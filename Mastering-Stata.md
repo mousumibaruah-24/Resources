@@ -6,3 +6,5 @@ You should be comfortable with:
 
 It is also recommended that you learn:
 * [Programming an estimation command](https://blog.stata.com/2016/01/15/programming-an-estimation-command-in-stata-a-map-to-posted-entries/)
+
+* Here's some advice on [writing a Stata package](http://bquistorff.blogspot.com/2016/09/guidelines-for-making-stata-package.html)
