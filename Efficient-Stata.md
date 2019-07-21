@@ -1,0 +1,1 @@
+* [NBER has helpful tips](http://www.nber.org/stata/efficient/)
