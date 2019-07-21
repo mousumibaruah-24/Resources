@@ -29,6 +29,6 @@
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
   - [Coding style guide](Style-guide-for-Python)
-  - [Screenshots](screenshot-tools)
+  - [Common pitfalls](Common-pitfalls)
   - [Further reading](Further-reading)
 
