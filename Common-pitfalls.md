@@ -3,6 +3,7 @@
   - [Common Stata mistakes](https://github.com/matthieugomez/stata-pitfalls/wiki)
   - [Top ten Stata gotchas](https://www.ifs.org.uk/docs/stata_gotchasJan2014.pdf)
   - using `encode` to define unique IDs in different datasets before merging them 
+  - not using `assert` to verify conditions as you prepare the data (especially useful right after `merge`)
 
 * analysis
   - watch out for the N: missing values in 'control' variables i.e. other than the outcome or primary predictor could cause the estimating sample to change
