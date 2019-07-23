@@ -3,7 +3,7 @@
   - [Human subject research](CITI-Program)
 * Getting started 
   - [Goal setting](Development-plan)
-  - [Software to install](Software)
+  - [Software and apps](Software)
   - [Coding principles](code-and-data)
 * Text editor
   - [Packages](ST-packages)
