@@ -11,4 +11,6 @@
 > - Don't say "I ran a regression and then ...", say "I ran regress and then ...".
 > - Please pay attention to grammar, spelling, punctuation, and tidy, readable presentation generally. Statalist is naturally sympathetic whenever it is clear that English is not your first language (which is another reason to use your real name).
 
+Source: https://www.statalist.org/forums/help#question
+
 
