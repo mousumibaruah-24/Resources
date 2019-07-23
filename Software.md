@@ -1,7 +1,7 @@
 We will be using the following tools and apps:
 
 * Stata
-  - At some point I will hopefully transition to R but for now Stata is the preferred software for analysis. Please use [Stata/MP](https://www.stata.com/statamp/)
+  - At some point I will hopefully transition to R but for now Stata is the preferred software for analysis. Please use [Stata/MP](https://www.stata.com/statamp/) as it is efficient when working with large data
   - Link ST3 with Stata https://github.com/mattiasnordin/StataEditor
   - Install frequently used [user defined commands](Stata-ado)
 
