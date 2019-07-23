@@ -4,4 +4,5 @@ The following notes are helpful for specific projects (and don't have to be read
 
 * [Gentzkow and Shapiro Lab's Wiki](https://github.com/gslab-econ/ra-manual/wiki) 
 
-* [Programing estimation commands in Stata](https://blog.stata.com/tag/stataprogramming/)
+* [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/resource-tag/education/)
+
