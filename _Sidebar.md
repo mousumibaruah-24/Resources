@@ -17,7 +17,7 @@
   - [User commands](stata-ado)
   - [Routines](routines)
 * Python
-  - [Learning Python](Learning Python)
+  - [Learning Python](Learning-Python)
 * ArcGIS
   - [Learning ArcGIS](https://github.com/aadityadar/all-aboard/wiki/Learning-ArcGIS)
 * Git and GitHub
