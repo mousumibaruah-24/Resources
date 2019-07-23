@@ -29,7 +29,7 @@
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
+  - [Troubleshooting](Troubleshooting)
   - [Coding style guide](Style-guide-for-Python)
   - [Common pitfalls](Common-pitfalls)
   - [Further reading](Further-reading)
-
