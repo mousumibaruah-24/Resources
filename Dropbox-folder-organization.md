@@ -14,9 +14,9 @@
 
 * ``/maps`` - for shapefiles, ArcMap documents etc. 
 
-* ``/lit`` - for literature review, primarily academic papers, but may also include government reports, legal orders etc.
+* ``/lit`` - for literature review, primarily academic papers, but may also include government reports, legal orders etc. This folder will be made redundant once we switch to [Paperpile](https://paperpile.com/)
 
-* ``/notes`` - document minutes of meetings, agenda for Skype calls and internal communication. 
+* ``/notes`` - document minutes of meetings, agenda for Skype calls and internal communication. Use [GitHub-flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to write these
 
 * ``/paper`` - save working drafts of papers and presentations here
   - ``/paper/tables`` - .tex tables go here 
