@@ -1,0 +1,1 @@
+20/07/19 - Replicated BI 2005 table 3 column 1 to check for consistency in the # of obs.
