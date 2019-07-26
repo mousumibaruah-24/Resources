@@ -1,4 +1,4 @@
-If you are new to Stata, I start with the following:
+If you are new to Stata, please start with the following:
 
 * [Christopher F. Baum's An Introduction to Modern Econometrics Using Stata](https://www.stata.com/bookstore/modern-econometrics-stata/)
 
@@ -7,7 +7,7 @@ http://personal.lse.ac.uk/lembcke/ecStata/2010/MResStataNotesOct2010PartA.pdf)
 
   - Advanced topics are covered in [Part B](http://personal.lse.ac.uk/lembcke/ecStata/2009/MResStataNotesFeb2009PartB.pdf)
 
-* At the very least, cover chapters 1, 2, 3, 6, 8 and 9 from [Cameron and Trivedi's Microeconometrics Using Stata](https://www.stata.com/bookstore/microeconometrics-stata/)
+* *At the very least*, cover chapters 1, 2, 3, 6, 8 and 9 from [Cameron and Trivedi's Microeconometrics Using Stata](https://www.stata.com/bookstore/microeconometrics-stata/)
 
 * Stata's documentation is excellent (and all their videos are on [YouTube](http://www.stata.com/links/video-tutorials/)) 
 
@@ -18,5 +18,6 @@ http://personal.lse.ac.uk/lembcke/ecStata/2010/MResStataNotesOct2010PartA.pdf)
   - [DSS Princeton](http://dss.princeton.edu/training/)
 
 * I generally find it useful to point students to one material to avoid looking at multiple webpages etc. Therefore, I would strongly recommend starting with LSE notes or Baum's textbook, supplementing it with Stata's video tutorials when need be.
+  - The only other *required* reading on this list is Cameron and Trivedi 2009
 
 * When in doubt, ask! [Statalist](https://www.statalist.org) is an amazing resource but before posting make sure you have read the [advice on posting](https://www.statalist.org/forums/help)
