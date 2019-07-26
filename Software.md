@@ -49,10 +49,10 @@ We will be using the following tools and apps:
 * Bibliography management
   - I used JabRef for a long time but recently converted to Paperpile based on [recommendations by Gentzkow and Shapiro](https://github.com/gslab-econ/ra-manual/wiki/Paperpile)
   - Paperpile works only on Chrome (as of July 2019) and its so good that it convinced me to move from Firefox to Chrome.
-  - Sign up for [Paperpile](https://paperpile.com/) using coupon code `AADITYA_20`. The coupon gets you a 20% discount (and if I get 10 people to sign up, my subscription becomes free)
+  - Sign up for [Paperpile](https://paperpile.com/) using coupon code `AADITYADAR_20`. The coupon gets you a 20% discount (and if I get 10 people to sign up, my subscription becomes free)
 
 * Note taking
-  - Google Keep is good but it's not available for office use. Please install [Evernote](https://evernote.com/)
+  - Google Keep is good but it's not available for offline use. Please install [Evernote](https://evernote.com/)
   - Install [Webclipper](https://evernote.com/products/webclipper) extension 
   - Use webclipper to save interesting news articles (in "simplified article" format)
 
