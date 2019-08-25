@@ -18,8 +18,9 @@
   - [Routines](routines)
 * Python
   - [Learning Python](Learning-Python)
-* ArcGIS
-  - [Learning ArcGIS](https://github.com/aadityadar/all-aboard/wiki/Learning-ArcGIS)
+* GIS
+  - [Learning ArcMap](https://github.com/aadityadar/all-aboard/wiki/Learning-ArcGIS)
+  - [Learning GEE](Google-Earth-Engine)
 * Git and GitHub
   - [Learning Markdown](learning-Markdown)
   - [GitHub training](learning-Github)
