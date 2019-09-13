@@ -29,6 +29,7 @@
 * LaTeX
   - [Learning LaTeX](learning-latex)
 * Workflow
+  - [Dynamic documents](Dynamic-documents)
   - [.tex tables in Stata](Reproducible-tables-for-LaTeX)
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
