@@ -2,7 +2,7 @@
 
 * ``/analysis`` - the most important folder. It that will be used for the data analysis
   - ``/analysis/input`` - there is no such folder. the final cleaned data used for analysis should be saved in ``build/output`` 
-  - ``/analysis/code`` - has the stata code to build and analyse the data
+  - ``/analysis/code`` - has the stata code to analyse the data
   - ``/analysis/output`` - files generated during the analysis can be saved here 
   - ``/analysis/temp`` - consists of intermediate or transition datasets that are constructed in the process of data analysis
 
