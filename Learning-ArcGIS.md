@@ -1,3 +1,5 @@
+- [Masayuki Kudamatsu's Causal Inference with Spatial Data: ArcGIS 10 for Economics Research](https://sites.google.com/site/mkudamatsu/gis)
+- [Dell's GIS Analysis for Applied Economists]http://scholar.harvard.edu/files/dell/files/090110combined_gis_notes.pdf)
 - [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 - [ArcGIS tutorials](https://mgimond.github.io/ArcGIS_tutorials/)
 - [UC Davis @Coursera](https://www.coursera.org/specializations/gis)
