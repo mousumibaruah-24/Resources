@@ -44,7 +44,7 @@ We will be using the following tools and apps:
 * Cloud storage
   - Install [Dropbox](https://www.dropbox.com/)
   - Familiarize yourself with the [folder organization plan](Dropbox-folder-organization) 
-  - ISB also has 
+  - ISB also has free OneDrive storage
 
 * Bibliography management
   - I used JabRef for a long time but recently converted to Paperpile based on [recommendations by Gentzkow and Shapiro](https://github.com/gslab-econ/ra-manual/wiki/Paperpile)
