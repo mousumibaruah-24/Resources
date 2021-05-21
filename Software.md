@@ -62,7 +62,7 @@ We will be using the following tools and apps:
 
 * Other software
   - [Wget](https://www.gnu.org/software/wget/) for downloading files. It's particularly helpful to [spider a website](https://www.labnol.org/software/wget-command-examples/28750/) (see example #17) 
-  - [Putty](https://www.putty.org/) (for PC). This is needed to connect to [AWS](https://aws.amazon.com/) or the supercomputer
+  - ~~[Putty](https://www.putty.org/) (for PC). This is needed to connect to [AWS](https://aws.amazon.com/) or the supercomputer~~  [MobaXterm](https://mobaxterm.mobatek.net/download.html) is a SSH client and terminal for Windows with an X11 server. Installation [instructions](https://wiki.hpcc.msu.edu/display/TEAC/SFTP+GUI+Tools)
   - [WinSCP](https://winscp.net/eng/download.php) (for PC). Allows to transfer files between local and remote computer easily
   - [7-zip](https://www.7-zip.org/). Open source file archiver that doesn't bug you with pop ups and can compress/uncompress a wide range of formats.  
 
