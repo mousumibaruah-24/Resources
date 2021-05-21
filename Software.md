@@ -57,7 +57,7 @@ We will be using the following tools and apps:
   - Use webclipper to save interesting news articles (in "simplified article" format)
 
 * Chat
-  - Install [Teams](https://teams.microsoft.com/downloads). It isn't as good as WhatsApp but it helps to keep professional and personal communication separate 
+  - Install ~~[Teams](https://teams.microsoft.com/downloads). It isn't as good as WhatsApp but it helps to keep professional and personal communication separate~~ [Slack](https://slack.com/)
   - Optional: Install [WhatsApp](https://www.whatsapp.com/download/) on PC/Mac
 
 * Other software
