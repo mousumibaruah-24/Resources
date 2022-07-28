@@ -1,3 +1,19 @@
+## Simple 
+
+* ``/input`` - all the raw data is saved here. note: do not overwrite the raw data.
+
+* ``/code`` - the prep and analysis .do files are saved here. 
+
+* ``/output`` - the final clean output .dta file that will be used for analysis is saved here.
+  - ``/output/tables`` - .tex tables go here 
+  - ``/output/figures`` - figures go here 
+
+- ``/temp`` - all intermediate files created in the process of going from "input" to "output" are saved here. 
+
+* ``/lit`` - for literature review, primarily academic papers, but may also include government reports, etc. 
+
+## Involved
+
 * ``/admin`` - for project related expenses/receipts/invoices, progress reports, etc.
 
 * ``/analysis`` - the most important folder. It that will be used for the data analysis
