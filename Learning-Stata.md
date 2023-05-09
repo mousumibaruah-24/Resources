@@ -1,5 +1,11 @@
 If you are new to Stata, please start with the following:
 
+* (Basic Stata training](https://stats.oarc.ucla.edu/stata/modules/)
+
+* [IPA Stata training](https://github.com/PovertyAction/IPA-Stata-Trainings). Click on Code > Download ZIP to save repository locally.
+
+* Download, print and pin [Stata cheat sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
+
 * [Christopher F. Baum's An Introduction to Modern Econometrics Using Stata](https://www.stata.com/bookstore/modern-econometrics-stata/)
 
 * Make your way through [Lembcke's intro notes to Stata](
@@ -14,8 +20,8 @@ http://personal.lse.ac.uk/lembcke/ecStata/2010/MResStataNotesOct2010PartA.pdf)
   - Your best friend in Stata will be the -help- command.
 
 * There are a lot of resources on Stata on the web and some important ones are:
-  - [ATS UCLA](www.ats.ucla.edu/stat/stata/)
-  - [DSS Princeton](http://dss.princeton.edu/training/)
+  - [ATS UCLA](https://stats.oarc.ucla.edu/stata/)
+  - [DSS Princeton](http://www.princeton.edu/~otorres/)
 
 * I generally find it useful to point students to one material to avoid looking at multiple webpages etc. Therefore, I would strongly recommend starting with LSE notes or Baum's textbook, supplementing it with Stata's video tutorials when need be.
   - The only other *required* reading on this list is Cameron and Trivedi 2009
