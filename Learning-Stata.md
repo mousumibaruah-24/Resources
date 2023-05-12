@@ -1,10 +1,12 @@
 If you are new to Stata, please start with the following:
 
-* (Basic Stata training](https://stats.oarc.ucla.edu/stata/modules/)
+* [Basic Stata training](https://stats.oarc.ucla.edu/stata/modules/)
 
 * [IPA Stata training](https://github.com/PovertyAction/IPA-Stata-Trainings). Click on Code > Download ZIP to save repository locally.
 
 * Download, print and pin [Stata cheat sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
+
+* [DIME Analytics Coding Guide](https://worldbank.github.io/dime-data-handbook/coding.html)
 
 * [Christopher F. Baum's An Introduction to Modern Econometrics Using Stata](https://www.stata.com/bookstore/modern-econometrics-stata/)
 
