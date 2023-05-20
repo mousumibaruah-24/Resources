@@ -29,3 +29,21 @@ http://personal.lse.ac.uk/lembcke/ecStata/2010/MResStataNotesOct2010PartA.pdf)
   - The only other *required* reading on this list is Cameron and Trivedi 2009
 
 * When in doubt, ask! [Statalist](https://www.statalist.org) is an amazing resource but before posting make sure you have read the [advice on posting](https://www.statalist.org/forums/help)
+
+## Improving Stata proficiency
+
+* You should be comfortable with:
+  * [`esttab`](http://repec.org/bocode/e/estout/esttab.html)
+  * [`coefplot`](http://repec.org/usug2014/jann_uksug14.pdf)
+  * [`dyndoc`](https://www.stata.com/manuals/rptdyndoc.pdf)
+  * Working with [datetime](https://sscc.wisc.edu/sscc/pubs/stata_dates/stata_dates.html)
+  * Regular expressions: [regex](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c) or [ustrregexm](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c)
+  * Working with [strings](https://shanghai.hosting.nyu.edu/data/stata/strings.html)
+
+It is also recommended that you learn:
+
+* Writing [own programs in Stata](https://www.stata.com/manuals15/u18.pdf)
+
+* [Programming an estimation command](https://blog.stata.com/2016/01/15/programming-an-estimation-command-in-stata-a-map-to-posted-entries/)
+
+* Here's some advice on [writing a Stata package](http://bquistorff.blogspot.com/2016/09/guidelines-for-making-stata-package.html)
