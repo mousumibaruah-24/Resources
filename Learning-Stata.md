@@ -1,5 +1,7 @@
 If you are new to Stata, please start with the following:
 
+* [Download Sublime Text 4 and link Stata with ST](https://ezstata.weebly.com/install2.html)
+
 * [Basic Stata training](https://stats.oarc.ucla.edu/stata/modules/)
 
 * [IPA Stata training](https://github.com/PovertyAction/IPA-Stata-Trainings). Click on Code > Download ZIP to save repository locally.
