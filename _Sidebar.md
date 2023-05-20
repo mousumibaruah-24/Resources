@@ -12,7 +12,6 @@
   - [Folders](Dropbox-folder-organization)
 * Stata
   - [Learning Stata](learning-stata)
-  - [Mastering Stata](Mastering-Stata)
   - [Working with large datasets](Efficient-Stata)
   - [User commands](stata-ado)
   - [Routines](routines)
