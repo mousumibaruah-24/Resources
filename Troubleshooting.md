@@ -41,19 +41,19 @@
 
 * [How To Ask Questions The Smart Way by Eric Steven Raymond](http://www.catb.org/~esr/faqs/smart-questions.html)
 
-> Use meaningful, specific subject headers
-> Make it easy to reply
-> Write in clear, grammatical, correctly-spelled language
-> Send questions in accessible, standard formats
-> Be precise and informative about your problem
-> Volume is not precision
-> Don't rush to claim that you have found a bug
-> Grovelling is not a substitute for doing your homework
-> Describe the problem's symptoms, not your guesses
-> Describe your problem's symptoms in chronological order
-> Describe the goal, not the step
-> Don't ask people to reply by private e-mail
-> Be explicit about your question
+> Use meaningful, specific subject headers  
+> Make it easy to reply  
+> Write in clear, grammatical, correctly-spelled language  
+> Send questions in accessible, standard formats  
+> Be precise and informative about your problem  
+> Volume is not precision  
+> Don't rush to claim that you have found a bug  
+> Grovelling is not a substitute for doing your homework  
+> Describe the problem's symptoms, not your guesses  
+> Describe your problem's symptoms in chronological order  
+> Describe the goal, not the step  
+> Don't ask people to reply by private e-mail  
+> Be explicit about your question  
 
 * [XY problem](https://xyproblem.info/)
 
