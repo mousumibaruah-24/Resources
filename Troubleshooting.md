@@ -68,14 +68,14 @@
 
 * [Strunk's Elements of Style: Elementary Principles of Composition](https://www.bartleby.com/lit-hub/the-elements-of-style/)
 
->    Make the paragraph the unit of composition: one paragraph to each topic
->    As a rule, begin each paragraph with a topic sentence; end it in conformity with the beginning
->    Use the active voice
->    Put statements in positive form
->    Omit needless words
->    Avoid a succession of loose sentences
->    Express co-ordinate ideas in similar form
->    Keep related words together
->    In summaries, keep to one tense
->    Place the emphatic words of a sentence at the end
+>    Make the paragraph the unit of composition: one paragraph to each topic  
+>    As a rule, begin each paragraph with a topic sentence; end it in conformity with the beginning  
+>    Use the active voice  
+>    Put statements in positive form  
+>    Omit needless words  
+>    Avoid a succession of loose sentences  
+>    Express co-ordinate ideas in similar form  
+>    Keep related words together  
+>    In summaries, keep to one tense  
+>    Place the emphatic words of a sentence at the end  
 
