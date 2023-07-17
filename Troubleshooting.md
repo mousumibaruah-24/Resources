@@ -65,3 +65,17 @@
 >     User asks for help with Y.
 >     Others try to help user with Y, but are confused because Y seems like a strange problem to want to solve.
 >     After much interaction and wasted time, it finally becomes clear that the user really wants help with X, and that Y wasn't even a suitable solution for X.
+
+* [Strunk's Elements of Style: Elementary Principles of Composition](https://www.bartleby.com/lit-hub/the-elements-of-style/)
+
+>    Make the paragraph the unit of composition: one paragraph to each topic
+>    As a rule, begin each paragraph with a topic sentence; end it in conformity with the beginning
+>    Use the active voice
+>    Put statements in positive form
+>    Omit needless words
+>    Avoid a succession of loose sentences
+>    Express co-ordinate ideas in similar form
+>    Keep related words together
+>    In summaries, keep to one tense
+>    Place the emphatic words of a sentence at the end
+
