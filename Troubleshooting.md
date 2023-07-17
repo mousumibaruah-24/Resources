@@ -79,3 +79,4 @@
 >    In summaries, keep to one tense  
 >    Place the emphatic words of a sentence at the end  
 
+* [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) by Jon Skeet 
