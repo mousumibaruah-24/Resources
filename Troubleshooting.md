@@ -1,5 +1,7 @@
 * See -help- in Stata to ensure that you have the correct syntax.
 
+## Asking questions:
+
 * Asking good questions is not easy and takes practice. Be clear, specific and concise. A decent format is:  
   - I am trying to do XX  
   - I tried XX and got the error XX (mention all relevant attempts)  
@@ -80,3 +82,31 @@
 >    Place the emphatic words of a sentence at the end  
 
 * [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) by Jon Skeet 
+
+## Debugging
+
+Tips for debugging (via chatGPT)
+
+1. **Understand the Problem**: Make sure you completely understand the problem. What is the error message? What part of the code is it referring to? What is supposed to happen, and what is actually happening?
+
+2. **Reproduce the Error**: Make sure you can consistently reproduce the error. If the error is sporadic and can't be consistently reproduced, it will be very difficult to debug.
+
+3. **Read the Error Message**: Stata's error messages often contain valuable information about what went wrong. Make sure to read it carefully.
+
+4. **Isolate the Problem**: Try to isolate the problem to the smallest amount of code possible. This often involves commenting out sections of code until the error no longer occurs.
+
+5. **Check Data Types and Structures**: Ensure that the data types and structures are what you expect them to be. Some Stata commands require the data to be in a certain format or structure.
+
+6. **Check for Missing Values**: Missing values can often cause unexpected behavior or errors in your code. Make sure to handle these appropriately.
+
+7. **Check Variable Names**: Ensure that you are using the correct variable names. Stata is case-sensitive, so be careful with capitalization.
+
+8. **Use Built-in Debugging Tools**: Stata has a `trace` command that allows you to see each command as it is executed. This can be very helpful for tracking down the source of an error.
+
+9. **Check for Common Mistakes**: There are certain common mistakes that programmers often make in Stata. For example, accidentally using `=` instead of `==` in a conditional statement, or not properly specifying the options of a command.
+
+10. **Get a Fresh Pair of Eyes**: Sometimes you can be staring at a piece of code for so long that you can't see the obvious mistake. Ask someone else to take a look at your code. They might spot something that you missed.
+
+11. **Take a Break**: If you've been working on a problem for a long time and can't seem to make any progress, take a break. Sometimes stepping away from the problem for a little while can give you a fresh perspective.
+
+Remember, debugging is a skill that takes practice. The more you do it, the better you'll get at it.
