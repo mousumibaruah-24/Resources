@@ -1,4 +1,4 @@
-* See -help- in Stata to ensure that you have the correct syntax.
+* See -help- in Stata to ensure that you have the correct syntax. See (more debugging tips)[https://github.com/aadityadar/all-aboard/wiki/Troubleshooting#debugging] below.
 
 ## Asking questions:
 
