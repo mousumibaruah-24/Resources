@@ -1,4 +1,4 @@
-* See -help- in Stata to ensure that you have the correct syntax. See [more debugging tips](https://github.com/aadityadar/all-aboard/wiki/Troubleshooting#debugging) below.
+* See -help- in Stata to ensure that you have the correct syntax. Advice from chatGPT: "Debugging can be frustrating, but it's important to stay calm and positive. Approach the problem with a positive attitude and a belief that you can solve it." See [more debugging tips](https://github.com/aadityadar/all-aboard/wiki/Troubleshooting#debugging) below.
 
 ## Asking questions:
 
