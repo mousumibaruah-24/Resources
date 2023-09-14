@@ -7,6 +7,8 @@
   - I tried XX and got the error XX (mention all relevant attempts)  
   - Screenshot attached/code and error pasted below  
 
+* See [writing tips](Writing-tips)
+
 * [Statalist](https://www.statalist.org/forums/help#sources) offers great advice on how to ask questions. 
 
 > 9. Where may I look for other advice on posting technical questions?
