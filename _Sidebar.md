@@ -33,6 +33,7 @@
   - [Example: Stata+LaTeX](Workflow-to-create-tables)
 * More
   - [Troubleshooting](Troubleshooting)
+  - [Writing tips](Writing-tips)
   - [Coding style guide](Coding-style-guide)
   - [Common pitfalls](Common-pitfalls)
   - [Further reading](Further-reading)
