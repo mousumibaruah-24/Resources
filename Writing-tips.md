@@ -25,7 +25,7 @@ William Strunk's [Elements of Style](https://www.gutenberg.org/files/37134/37134
 * Stay On Topic: Ensure every sentence and paragraph relates back to your main point. Send separate emails for different themes/topics.
 * Proofread: Mistakes can undermine your credibility and confuse readers. Make sure to review your work for clarity and accuracy.
 
-## Examples:
+## Examples
 
 * Questions should be clear and well defined. From Strunk: "Prefer the specific to the general, the definite to the vague, the concrete to the abstract."
 
