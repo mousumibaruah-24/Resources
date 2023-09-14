@@ -30,21 +30,11 @@ After: The eSewa portal is a crucial interface that simplifies delivery of citiz
 
 Before: Uncertain about q19_assuredirrigatedland, as it represents total irrigated land (referencing the already written STATA/R code) and not assured irrigated land only. Also, in doubt about calculating total irrigated land following to earlier with q19_20_irrigated.
 
-After: Can we be certain that q19_assuredirrigatedland refers to total irrigated land? I am confused because the name of the variable in the data is "totalirrigated". For context, there are three variables in the dataset: totalunirrigated, totalirrigated and otherirrigated. We also have three related questions in the survey: 
-q18 total unirrigaged land
-q19 with assured irrigation for two crops
-q20 other irrigated land
-Note: q19 and q20 are grouped under "total irrigated land". My question, therefore, is does totalirrigated refer to q19 + q20 or just q19 (or perhaps something else)? I am assuming totalunirrigated corresponds to q18 and otherirrigated corresponds to q20.
+After: Can we be certain that q19_assuredirrigatedland refers to total irrigated land? I am confused because the name of the variable in the data is "totalirrigated". For context, there are three variables in the dataset: totalunirrigated, totalirrigated and otherirrigated. We also have three related questions in the survey: q18 total unirrigaged land; q19 with assured irrigation for two crops; q20 other irrigated land. Note: q19 and q20 are grouped under "total irrigated land". My question, therefore, is does totalirrigated refer to q19 + q20 or just q19 (or perhaps something else)? I am assuming totalunirrigated corresponds to q18 and otherirrigated corresponds to q20.
 
 * Another example 
 
 Before: Require clarification on defining labels for q16_ownvehicle, which has 5 sublevels ranging from 1-5, while the SECC questionnaire only has 2 sublevels (Yes or No).
 
-After: I noticed that q16 has 5 values in the data, but in the questionnaire this is just a Yes/No question. Tabulating q16, I find that the values and their corresponding percentages are:
-val1 xx%
-val2 xx%
-...
-val5 xx%
-
-We can see that the values that most closely align with the options in the survey questionnaire are value X and value X. These account for XX% of the data, leaving YY% of the data assigned to values not in the questionnaire. How should I treat these YY% of the data?
+After: I noticed that q16 has 5 values in the data, but in the questionnaire this is just a Yes/No question. Tabulating q16, I find that the values and their corresponding percentages are: val1 xx%, val2 xx% ... val5 xx% We can see that the values that most closely align with the options in the survey questionnaire are value X and value X. These account for XX% of the data, leaving YY% of the data assigned to values not in the questionnaire. How should I treat these YY% of the data?
 
