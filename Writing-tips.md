@@ -12,6 +12,19 @@ William Strunk's [Elements of Style](https://www.gutenberg.org/files/37134/37134
 > 17. In summaries, keep to one tense
 > 18. Place the emphatic words of a sentence at the end
 
+## More tips (via GPT4)
+
+* Plan Before You Write: Outline your main points to avoid meandering.
+* Avoid Redundancies: For example, instead of "advance planning," just say "planning."
+* Eliminate Filler Words: Words like "actually," "really," and "very" often don’t add value and can be omitted.
+* Break Up Long Sentences: Aim for clarity. If a sentence seems too long, it probably can be broken into two or more sentences.
+* Edit Ruthlessly: Once done, review your work and remove any unnecessary information.
+* Choose Specific Words: E.g., instead of "a lot of people," say "75% of participants."
+* Be Explicit: Make sure there's no ambiguity. If giving instructions or asking a question, be as clear as possible.
+* Use Examples: They can illuminate a point and provide clarity.
+* Stay On Topic: Ensure every sentence and paragraph relates back to your main point. Send separate emails for different themes/topics.
+* Proofread: Mistakes can undermine your credibility and confuse readers. Make sure to review your work for clarity and accuracy.
+
 ## Examples:
 
 * Questions should be clear and well defined. From Strunk: "Prefer the specific to the general, the definite to the vague, the concrete to the abstract."
